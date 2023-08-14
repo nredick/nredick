@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nredick
 - 👀 I’m interested in computational geoscience & machine learning
-- 🌱 I’m currently learning `Julia` & `Clojure`
+- 🌱 I’m currently learning `Julia`
 <!--- - 📫 Reach me @ [nathalieredick@gmail.com](mailto:nathalieredick@gmail.com)--->
 
 <!---
